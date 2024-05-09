@@ -27,3 +27,7 @@
 
 ## 4. Store all the "servlet-name", and "servlet-class" to a csv file from the attached
 ### sample_json.json file using Python.
+
+
+# Solution:
+The solutions to the above questions are updated in a jupyter notebook and added to this repository. Please check the jupyter notebook for the answers.
