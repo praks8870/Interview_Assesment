@@ -1,0 +1,6 @@
+,servlet_name,servlet_class
+0,cofaxCDS,org.cofax.cds.CDSServlet
+1,cofaxEmail,org.cofax.cds.EmailServlet
+2,cofaxAdmin,org.cofax.cds.AdminServlet
+3,fileServlet,org.cofax.cds.FileServlet
+4,cofaxTools,org.cofax.cms.CofaxToolsServlet
