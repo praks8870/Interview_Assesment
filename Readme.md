@@ -2,13 +2,12 @@
 
 ## This project aims for practicing for a Interview for an Analyst role. The problems statements are as follows,
 
-### 1. Data set reference link: https://www.consumerfinance.gov/dataresearch/consumer-complaints/#download-the-data
+## 1. Data set reference link: https://www.consumerfinance.gov/dataresearch/consumer-complaints/#download-the-data
 ### File data source: https://files.consumerfinance.gov/ccdb/complaints.csv.zip
 ### Problem statement:
 ### Download the data from the file data source and provide possible data insights.
 
-### 2. Given an unsorted array of integers, find the length of the longest continuous
-### increasing subsequence (subarray).
+## 2. Given an unsorted array of integers, find the length of the longest continuous increasing subsequence (subarray).
 ### Example 1:
 ### Input: [1,3,5,4,7]
 ### Output: 3
@@ -17,7 +16,7 @@
 ### Output: 1
 
 
-### 3. Given a list of non negative integers, arrange them such that they form the largest number.  
+## 3. Given a list of non negative integers, arrange them such that they form the largest number.  
 ### Example 1:
 ### Input: [10,2]
 ### Output: "210"
@@ -26,5 +25,9 @@
 ### Output: "9534330"
 
 
-### 4. Store all the "servlet-name", and "servlet-class" to a csv file from the attached
+## 4. Store all the "servlet-name", and "servlet-class" to a csv file from the attached
 ### sample_json.json file using Python.
+
+
+# Solution:
+The solutions to the above questions are updated in a jupyter notebook and added to this repository. Please check the jupyter notebook for the answers.
